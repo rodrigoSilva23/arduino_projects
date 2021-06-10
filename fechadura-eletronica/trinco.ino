@@ -1,8 +1,5 @@
-/* ******************** Controle de acesso por senha Manual do Mundo ********************
-   
-   Criado por: Fernando A Souza e Iberê Thenório
-   Rev.: 01
-   Data: 17.06.2019
+/* ******************** Controle de acesso  ********************
+  
 
    Guia de conexão:
     
